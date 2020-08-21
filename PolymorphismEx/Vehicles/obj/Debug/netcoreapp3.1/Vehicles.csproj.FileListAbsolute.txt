@@ -1,0 +1,13 @@
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\atana\source\repos\OOP\PolymorphismEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
